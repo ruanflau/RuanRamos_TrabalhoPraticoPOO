@@ -18,13 +18,21 @@ O projeto foi estruturado seguindo rigorosamente o padrão MVC, com a seguinte o
 
 br.com.ufrr.app
 ├── model
+
 │ ├── Aluno.java
+
 │ ├── AlunoDAO.java
+
 │ └── BancoDeDados.java
+
 ├── controller
+
 │ └── AlunoController.java
+
 ├── view
+
 │ └── TelaAluno.java
+
 └── Main.java
 
 
