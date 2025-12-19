@@ -47,7 +47,7 @@ O padrão **Singleton** foi aplicado na classe `BancoDeDados`, garantindo que ex
 
 ## Diagrama UML
 
-![Image Alt]([https://github.com/ruanflau/RuanRamos_TrabalhoPratico/blob/master/Captura%20de%20tela%202025-12-12%20104404.png?raw=true](https://raw.githubusercontent.com/ruanflau/RuanRamos_TrabalhoPraticoPOO/refs/heads/main/DiagramaUML.png))
+![Image Alt](https://raw.githubusercontent.com/ruanflau/RuanRamos_TrabalhoPraticoPOO/refs/heads/main/DiagramaUML.png)
 ## Execução do Projeto
 
 1. Abrir o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse)  
