@@ -17,6 +17,7 @@ O projeto tem como objetivo refatorar um protótipo funcional, aplicando o padr�
 O projeto foi estruturado seguindo rigorosamente o padrão MVC, com a seguinte organização de pacotes:
 
 br.com.ufrr.app
+
 ├── model
 
 │ ├── Aluno.java
